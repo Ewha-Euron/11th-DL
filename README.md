@@ -34,12 +34,12 @@
 없음
 
 ### 📌제출 안내
-① Euron DL세션의 Repository를 본인의 GitHub 계정으로 Fork해주세요.
-② Fork한 본인의 Repository의 Week_1 브랜치에 과제 파일을 모두 업로드해주세요.
-③ Euron 공식 Repository의 Week1 브랜치로 Pull Request를 진행해주세요.
-④ 제목 양식을 지켜주세요!
-　   → 제목 양식: Week1예습과제_김이화
-⑤ 9월 7일 월요일 23시 59분까지 제출해주세요.
+- Euron DL세션의 Repository를 본인의 GitHub 계정으로 Fork해주세요.
+- Fork한 본인의 Repository의 Week_1 브랜치에 과제 파일을 모두 업로드해주세요.
+- Euron 공식 Repository의 Week1 브랜치로 Pull Request를 진행해주세요.
+- 제목 양식을 지켜주세요!
+    - 제목 양식: Week1예습과제_김이화
+- 9월 7일 월요일 23시 59분까지 제출해주세요.
 
 ### 📌발표 안내
 ㄴ발표팀은 예습과제 제출 X
