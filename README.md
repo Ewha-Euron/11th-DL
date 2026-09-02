@@ -26,7 +26,7 @@
 
 - 1주차 복습과제**(필수)**
     
-    1주차 복습과제 - Google Drive
+ [1주차 복습과제 - Google Drive](https://drive.google.com/drive/folders/1siS5vCOA8o_s4XHRQquLvbGJc8ASmB0P)
     
     - Week1_복습과제 ###답안### 란에 답안을 작성하신 후 ipynb 형식으로 제출
     - branch: `Week_1`
